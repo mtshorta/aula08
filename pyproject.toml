@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "aula08"
+version = "0.1.0"
+description = "aula 08 bootcamp de python"
+authors = ["Mateus Rabelo Horta <mts.horta@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
